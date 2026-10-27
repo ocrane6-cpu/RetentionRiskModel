@@ -52,7 +52,7 @@ This repository contains **no student data**. The script writes two outputs:
 
 ## Background
 
-Developed by Emmanuel Assefuah Ocran, Senior Research Analyst, Office of Institutional Research, Southeast Missouri State University, where the model is in operational use. A full technical report describes the data, methods, validation, and results.
+Developed by Emmanuel Assefuah Ocran, Senior Research Analyst in Institutional Research. A full technical report describes the data, methods, validation, and results.
 
 ## License
 
